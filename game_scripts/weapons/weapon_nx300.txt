@@ -21,7 +21,7 @@ WeaponData
 			
 			"weapon_overrides"
 			{
-				"default_clip"		"135"
+				"default_clip"		"140"
 			}
 		}
 		"clip_compression_2"
@@ -29,7 +29,7 @@ WeaponData
 			
 			"weapon_overrides"
 			{
-				"default_clip"		"150"
+				"default_clip"		"160"
 			}
 		}
 		"adv_munitions_1"
@@ -89,7 +89,7 @@ WeaponData
 	"bucket"			"0"
 	"bucket_position"		"1"
 
-	"default_clip"			"115"
+	"default_clip"			"120"
 
 	"weight"			"10"
 	"item_flags"			"0"
