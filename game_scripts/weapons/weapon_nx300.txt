@@ -45,7 +45,7 @@ WeaponData
 			
 			"weapon_overrides"
 			{
-				"damage_multiplier"	"1.2"
+				"damage_multiplier"	"1.18"
 			}
 		}
 		
@@ -89,7 +89,7 @@ WeaponData
 	"bucket"			"0"
 	"bucket_position"		"1"
 
-	"default_clip"			"120"
+	"default_clip"			"115"
 
 	"weight"			"10"
 	"item_flags"			"0"
