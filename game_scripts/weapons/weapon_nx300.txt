@@ -16,9 +16,16 @@ WeaponData
 	//-----------------------------------------------------------------------------
 	"gizmos"
 	{
+		"armour_piercing"
+		{			
+			"weapon_overrides"
+			{
+				"damage_multiplier"	"0.85"
+				"exo_multiplier"	"1.6"
+			}
+		}
 		"clip_compression_1"
-		{
-			
+		{			
 			"weapon_overrides"
 			{
 				"default_clip"		"140"
