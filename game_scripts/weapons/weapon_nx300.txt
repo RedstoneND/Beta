@@ -21,7 +21,7 @@ WeaponData
 			"weapon_overrides"
 			{
 				"damage_multiplier"	"0.85"
-				"exo_multiplier"	"1.6"
+				"exo_multiplier"	"1.7"
 			}
 		}
 		"clip_compression_1"
@@ -103,7 +103,7 @@ WeaponData
 
 	"damage"			"100" // max dmg per second when in contact with flame
 	"damage_factor"			"2.05"
-	"exo_multiplier"		"1.3"
+	"exo_multiplier"		"1.4"
 
 	"cof_modifier_crouched"		"-0.5"
 	"cof_modifier_walking"		"1"	
