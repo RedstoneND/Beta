@@ -2,7 +2,7 @@
 {
 	"shared"
 	{
-		"buildcost"		"3000"
+		"buildcost"		"2800"
 		"hitpoints"		"2100"
 		"cap"			"999"
 		
