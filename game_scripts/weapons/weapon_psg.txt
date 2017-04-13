@@ -35,7 +35,7 @@
 			"weapon_overrides"
 			{
 				"damage_multiplier"	"0.8"
-				"exo_multiplier"	"4.8"
+				"exo_multiplier"	"4.3"
 			}
 		}
 		"clip_compression_1"
@@ -148,7 +148,7 @@
 	"primary_ammo"				"paladin"
 	"secondary_ammo"			"None"
 	"damage"				"130"
-	"exo_multiplier"			"2.4"
+	"exo_multiplier"			"2.1"
 	"damage_factor"				"0.15"		//Damage multiplier for vehicles/structures
 	"effective_range"			"25000"
 	
