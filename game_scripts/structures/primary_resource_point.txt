@@ -1,6 +1,6 @@
 "primary_resource_point"
 {
-	"starting_resources"			"80000"
+	"starting_resources"			"72000"
 	"extract_interval" 			"15.0"		// Length of time in seconds before we hand out more resources
 	"extract_amt"				"675"		// Amount of resources to give in each extraction
 	
