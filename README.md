@@ -7,3 +7,5 @@ http://steamcommunity.com/groups/RedstoneND/discussions/7/358416640398718952/#c3
 This repo could use an auto-build script. For more details see here.
 https://github.com/RedstoneND/Game/issues/1
 
+The compiler and decompiler for txt/ctx files is located here.
+http://fastdl.eu.xenogamers.com/junk/ctx_converter.zip
