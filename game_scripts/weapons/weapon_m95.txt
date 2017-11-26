@@ -136,8 +136,8 @@
 	"damage_radius"				"200"		// Damage things in this radius
 	"damage_factor"				"4.60"		//Damage multiplier for vehicles/structures
 	"exo_multiplier"			"1.5"
-	"effective_range"			"6000"
-	"falloff_range"				"12000"
+	"effective_range"			"5500"
+	"falloff_range"				"11000"
 	"falloff_percent"			"50"
 	"resupply_cost_per_round"		"30"
 	//-----------------------------------------------------------------------------
