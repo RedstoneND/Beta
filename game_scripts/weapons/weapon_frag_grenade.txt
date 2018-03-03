@@ -40,7 +40,14 @@ WeaponData
 				"damage_factor"			"3.5"
 			}
 		}
-		
+		"armour_piercing"
+		{
+			
+			"weapon_overrides"
+			{
+				"damage_factor"			"1.8"
+			}
+		}		
 	}
 
 	"PlayerClassArms"
@@ -67,20 +74,20 @@ WeaponData
 	"bucket"			"5"
 	"bucket_position"		"0"
 
-		"CustomAddon"				"grenade2"
+	"CustomAddon"			"grenade2"
 	"AddonOriginOffset"		"-4 -2 0"
 	"AddonAnglesOffset"		"0 0 0"
 
 	"clip_size"			"-1"
 	"default_clip"			"3"
 
-	"weight"				"1"
+	"weight"			"1"
 	"item_flags"			"18"	// ITEM_FLAG_NOAUTORELOAD | ITEM_FLAG_EXHAUSTIBLE
 	"damage"			"210"
 	
-	"grenade_fuse_time"		"3"		// Time before exploding, after the pin is pulled
+	"grenade_fuse_time"		"3"	// Time before exoloding, after the pin is pulled
 
-	"damage_factor"			"1.5"		//Damage multiplier for vehicles/structures
+	"damage_factor"			"1.5"	/ /Damage multiplier for vehicles/structures
 
 	"viewmodel_bob_strength" "1.0"
 	"viewmodel_bob_pivot_offset" "0 3 -3"
