@@ -4,7 +4,7 @@
 	{
 		// POWER
 		"power_supply"		"0"
-		"power_use"		"100"
+		"power_use"		"80"
 		"power_radius"		"0"
 		"commander_can_power_down"	"1"
 
