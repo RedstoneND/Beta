@@ -87,7 +87,7 @@ WeaponData
 	
 	"grenade_fuse_time"		"3"	// Time before exoloding, after the pin is pulled
 
-	"damage_factor"			"1.5"	/ /Damage multiplier for vehicles/structures
+	"damage_factor"			"1.5"	// Damage multiplier for vehicles/structures
 
 	"viewmodel_bob_strength" "1.0"
 	"viewmodel_bob_pivot_offset" "0 3 -3"
